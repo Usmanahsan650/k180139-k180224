@@ -1,0 +1,27 @@
+{
+    "seq1" : [
+        "aahtaahmddhdulamhatmtaldmtmlhdaaahamhmatdaaaamaauahmlhahmmmdatdaahamudlatdaaahahhmmdmlaluddtdattdluh",
+        "mamlalmhhhuhluadhaaaulmhmamdhhuaatmmhlthauhhtahhaatlaamdmhhatmlahatmmaahmhmhttlhamaluhauttahalaauamh",
+        "hdmamaaaluthamtaumuhlmhhahldaamadauuutmtatmutalahaahuhaamauahhdhualmdmaahammaaamtatmllammmaahhmmadmh",
+        "mlhtluaamhtlladhmahhdhhlmahdmalhmauathdmhhlmaahualhammlatdhuatmauhltttdmahlhtaahmmltlamaldmuumhmtdha",
+        "hhhmmuaamalataumhatumahhtmdtaathaammlmhmutdhhaatmlmhaammaaamalmluumalmdmadmmlmlhhamadmlatmhlaaulhmdm",
+        "mdlhhmlaamaamahhmammaullhataummlmumdhmhddamahadmmumthahhhhllatahlaaulamamadhuummtdammaalmthadhlllaha",
+        "mhhdmtamlmtmtaaddulamamlmmulahaahaaaatautahamamduhmmmammltmahmuhauaaaaaumumahmmmaamtmahudadalahallam",
+        "auaataaaddmuhmulauaahludmmmuamtamahamauaamlmllhhthatahahhmaldluaamaahthumuaumuahmmdlaaumlaummahtlaau",
+        "huhuhhdmdammamttatummtmaaahtmmmumdlamtaadmlmtammmhhhtaahaadtmadmtluddamdhhahlthmmammhatumtmlmmaamtmt",
+        "ahmmauhhahtadmatthmhhmualalaaatahtudaammhhdhmhtaldaaaaaamhaaaahhmmaaaadhlhumaamttduhhuaamhhmamamhmhd"
+    ],
+
+    "seq2" : [
+        "lmmdamdmauamuamatauaaahaadahahluamaltthumalahduuhhltmhudhuhaaatmaahaahmmmhmlahmdadhdamaaaauahmllaaaa",
+        "tuahhmhaamlmamumuhmdaahtudmlamaahmladdumhlammahhaatamuaammaadmammmlauhmmaaalautmtadmmhaahlmlamlahaam",
+        "htamlltluaaummhaamauhaduhhahahhhahaaaamhamlhatamumdalmhaaahhmuaatuhhhduaadmmmhmalaaladhahmuaadhamtaa",
+        "aaataammhamalduuahdadhlahtlahhadlatuhhumumhtahlmmhamhaaaauhmhadhmmmauuamhmuaahtaladataaattaathamdamu",
+        "amlhlaaadtaauhmtaauauahmamhlmaaldmllaaalthmdmhamaaduhuamhdudhhlhmahauatmmuhdahahmlthuhhhuhmmaahhtmml",
+        "mhtammmmtdadaaamumlaaamummamdtuaummthuahmahhamhlaahatahhmamamuuhdtamaduaatdhdmamhmamadmmtaaldmmhuath",
+        "matadmmaalmhhatuhhhammmhtahuuhldumaauamadmhmhhdhtuamdaalaamtdhdalldlahthuhhamllhtamhaaaaaamthtmahmhl",
+        "htadahmdaaaldhmuhmuaaadtuaadhlhudhmamdudmmhmmaaamaaaahhmhuatlhmmamhmmutmutautahmmladhhdhmdmuhhtuathm",
+        "hmltumahddtlauaahahhhadhmmulmmhthammmaumahadtmadmdaadaaalumhumumaulthdamdtaamlhahataauammhathaadudlh",
+        "aauluuammtatmamhhtamhadahamahmtmhuallauahamhutahaumhhahaattatuhttammdahmmhhaahmmhamahlhaladhmaathdhh"
+    ]
+}
