@@ -81,10 +81,10 @@ a{
 }
 h1,h4{
     width: fit-content;
-    background-color: yellow;
+    background-color: rgb(0, 255, 76);
     text-align: center;
     border: 3px solid yellow;
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 25px 25px 25px 25px;
     margin-bottom: 30px;
     margin-right: auto;
     margin-left: auto;  
